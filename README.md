@@ -31,3 +31,6 @@ node deploy.js functionName create pre_
 
 node deploy.js functionName update pre_  // Updates existing function
 
+**Sample Folder Structure**
+![sample](http://i.imgur.com/q3In4bx.png)
+
